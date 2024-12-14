@@ -1,4 +1,4 @@
-Hi, I'm Jared. Take a look at my [website](jaredweissberg.com).
+Hi, I'm Jared. Take a look at my [website](https://jaredweissberg.com).
 
 Here are some repos I have worked on recently:
 * [chess](https://github.com/weissbergj/chess)
